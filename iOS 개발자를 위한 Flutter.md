@@ -1603,8 +1603,6 @@ class _SampleAppPageState extends State<SampleAppPage> {
 }
 ```
 
-
-
 ## 하드웨어, 서드 파티 서비스 및 플랫폼과 상호작용하기*Interacting with hardware, third party services and the platform*
 
 ### 어떻게 플랫폼, 플랫폼 네이티브 코드와 상호작용합니까?
